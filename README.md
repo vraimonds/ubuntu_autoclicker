@@ -1,4 +1,4 @@
-# ubuntu_autoclicker
+# Ubuntu 16.04 autoclicker
 Simple autoclicker for Ubuntu OS.
 
 Instructions:
