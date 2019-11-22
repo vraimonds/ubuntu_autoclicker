@@ -11,3 +11,6 @@ Instructions:
 3) Press `F2` to toggle autoclicking
    Hold `F4` to enable autoclicking
    Press `Esc` to exit programm.
+
+
+![Autoclicker test results:](https://github.com/vraimonds/ubuntu_autoclicker/blob/master/autoclicker-test-results.png "Autoclicker test results")
