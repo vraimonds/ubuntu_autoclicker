@@ -8,6 +8,9 @@ Instructions:
 2) Run the source code:
     - by double clicking on source code, and choosing "Run" or
     - via terminal `python3 /path/to/source/ubuntu_autoclicker.py`
-3) Press `F5` to toggle autoclicking
+3) Press `F2` to toggle autoclicking
    Hold `F4` to enable autoclicking
    Press `Esc` to exit programm.
+
+
+![Autoclicker test results:](https://github.com/vraimonds/ubuntu_autoclicker/blob/master/autoclicker-test-results.png "Autoclicker test results")
